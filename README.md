@@ -1,2 +1,2 @@
 # webBrowser
-This repository is a simple GUI Web Browser using selenium
+This repository is a simple GUI Web Browser created using cefpython and tkinter
